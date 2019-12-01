@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.0.0-rc.0",
+    "@material-ui/icons": "^4.5.1",
+    "antd": "^3.25.3",
+    "bootstrap": "^4.4.1",
+    "bootstrap-icons": "^1.0.0-alpha",
+    "cron": "^1.7.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
     "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "redis": "^2.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
